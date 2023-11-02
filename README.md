@@ -88,7 +88,7 @@ ___
 ↓↓↓看这是个啥  
 user.name
 
-Two `space` at the end  
+Two `space` at the end plus `enter`  
 will start a new line
-No `space` at the end will not start a new line  
+No `space` at the end but only `enter` will not start a new line  
 Two `space` in the middle->  <-will not start a new line
